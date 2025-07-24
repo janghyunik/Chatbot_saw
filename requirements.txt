@@ -1,0 +1,5 @@
+langchain_ollama
+gradio==5.22.0
+langchain
+langchain_core.prompts
+dotenv
